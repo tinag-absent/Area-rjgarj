@@ -16,7 +16,7 @@ const ProgressSystem = (function() {
   // Pages that unlock at each level
   const LEVEL_UNLOCKS = {
     0: ['index.html', 'login.html', 'dashboard.html'],
-    1: ['divisions.html', 'chat.html'],
+    1: ['divisions.html', 'chat.html', 'map.html'],
     2: ['division-convergence.html', 'division-support.html', 'division-engineering.html', 'division-foreign.html', 'division-port.html'],
     3: ['phenomenon.html'],
     4: ['missions.html'],
